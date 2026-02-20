@@ -1,3 +1,3 @@
 main(){
-print("ibrahem olabi");
+print("ibrahem_olabi");
 }
